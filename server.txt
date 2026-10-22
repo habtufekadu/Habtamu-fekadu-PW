@@ -1,0 +1,9 @@
+C:\Users\habtaf2071\php\php.exe -S localhost:8000 to start the server 
+http://localhost:8000/index.php to see the output at browser
+
+
+after .ini 
+
+
+C:\Users\habtaf2071\php\php.exe -S localhost:8000 -c php.ini for powershell 
+http://localhost:8000/index.php to see the output at browser
